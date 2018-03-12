@@ -1,5 +1,6 @@
 ---
-title: "Designers"
+title: "Resources for Designers"
+nav_title: "Designers"
 order: 3
 footer: >
   <p><strong>Date:</strong> Updated 12 February 2018.</p>
