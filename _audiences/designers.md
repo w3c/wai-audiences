@@ -1,6 +1,11 @@
 ---
 title: "Designers"
 order: 3
+footer: >
+  <p><strong>Date:</strong> Updated 12 February 2018.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: James Green.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+
 ---
 
 ## Get a Foundation
