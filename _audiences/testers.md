@@ -1,4 +1,17 @@
 ---
-title: "Testers"
-order: 7
+title: "Resources for Testers/Evaluators"
+nav_title: " Testers/Evaluators "
+order: 6
+footer: >
+  <p><strong>Date:</strong> Updated 12 February 2018.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
+
+## Get a Foundation
+
+First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+
+## Get Guidance
+
+For information on testing/evaluating, see **[Evaluating Web Accessibility Overview]( https://www.w3.org/WAI/eval/)**. It links to information on evaluation tools, manual checks, and conformance evaluation resources.
