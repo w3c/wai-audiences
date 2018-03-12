@@ -5,7 +5,6 @@ order: 1
 permalink: /audiences/
 ---
 
-* [Advocates]({{ "/audiences/advocates/" | relative_url }})
 * [Designers]({{ "/audiences/designers/" | relative_url }})
 * [Developers]({{ "/audiences/developers/" | relative_url }})
 * [Managers]({{ "/audiences/managers/" | relative_url }})
