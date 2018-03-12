@@ -10,12 +10,12 @@ footer: >
 
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
 
 ## Get Started Now
 
-If you're in the situation: "I need to make my website accessible and I don't even know where to start!", see **[Web Accessibility First Aid: Approaches for Interim Repairs](https://www.w3.org/WAI/impl/improving)**.
+If you're in the situation: "I need to make my website accessible and I don't even know where to start!", see **[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})**.
 
 ## Get Guidance for Organizations and Projects
 
-For guidance integrating accessibility throughout your organization and projects, see **Planning and Managing Web Accessibility(https://www.w3.org/WAI/impl/)**.
+For guidance integrating accessibility throughout your organization and projects, see **[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})**.

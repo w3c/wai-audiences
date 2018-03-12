@@ -10,8 +10,8 @@ footer: >
 
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
 
 ## Get Guidance
 
-For information on testing/evaluating, see **[Evaluating Web Accessibility Overview]( https://www.w3.org/WAI/eval/)**. It links to information on evaluation tools, manual checks, and conformance evaluation resources.
+For information on testing/evaluating, see **[Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})**. It links to information on evaluation tools, manual checks, and conformance evaluation resources.

@@ -11,7 +11,7 @@ footer: >
 
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
 
 ## Get Started
 

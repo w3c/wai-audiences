@@ -10,12 +10,12 @@ footer: >
 
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
 
 ## Understand Policy-Related Issues
 
-* To understand the importance of using international standards (rather than creating different standards), see **[Why Standards Harmonization is Essential to Web Accessibility](@@)**.
-* To understand how web accessibility depends on several components of web development and interaction working together, and how the W3C WAI accessibility standards (WCAG, ATAG, UAAG, WAI-ARIA) apply, see **[Essential Components of Web Accessibility]( https://www.w3.org/WAI/intro/components)**.
+* To understand the importance of using international standards (rather than creating different standards), see **[Why Standards Harmonization is Essential to Web Accessibility]({{ "/standards-guidelines/harmonization/" | relative_url }})**.
+* To understand how web accessibility depends on several components of web development and interaction working together, and how the W3C WAI accessibility standards (WCAG, ATAG, UAAG, WAI-ARIA) apply, see **[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})**.
 * For a list of governmental policies relating to web accessibility in countries and regions around the world, see **Web Accessibility Laws and Policies.](@@)**
 * For guidance on developing a policy for an organization, see **Developing Organizational Policies on Web Accessibility](@@)**`.
 

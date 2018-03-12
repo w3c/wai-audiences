@@ -10,15 +10,15 @@ footer: >
 
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)**. It includes links to videos and lots more details that you might want to read now or later.
+First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
 
 ## Get Started
 
-For brief descriptions of things to address for markup and coding, see **[Tips for Getting Started Developing for Web Accessibility]( https://www.w3.org/WAI/gettingstarted/tips/developing)**.
+For brief descriptions of things to address for markup and coding, see **[Tips for Getting Started Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }})**.
 
 ## Get Comprehensive Guidance
 
-To understand the standards and supporting materials for content, see **[Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)**.
+To understand the standards and supporting materials for content, see **[Web Content Accessibility Guidelines (WCAG) Overview]({{ "/standards-guidelines/wcag/" | relative_url }})**.
 
 For a list of the WCAG success criteria that apply to developing, see: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Developing"]( https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize)**.
 
@@ -27,9 +27,9 @@ For a list of the WCAG success criteria that apply to developing, see: **[How to
 {% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="simple aside" %}
 {:/}
 
-If you're working on authoring tools, such as content management systems, see [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag).
+If you're working on authoring tools, such as content management systems, see [Authoring Tool Accessibility Guidelines (ATAG) Overview]({{ "/standards-guidelines/atag/" | relative_url }}).
 
-If you're working on browsers or other "user agents", see [User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag).
+If you're working on browsers or other "user agents", see [User Agent Accessibility (UAAG) Guidelines Overview]({{ "/standards-guidelines/uaag/" | relative_url }}).
 
 {::nomarkdown}
 {% include box.html type="end" %}
