@@ -43,6 +43,7 @@ collections:
     repostitory: w3c/wai-audiences
     output: true
     acknowledgements: false
+    prevnext: false
     permalink: /:collection/:path/
 
 defaults:
