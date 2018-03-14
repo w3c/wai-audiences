@@ -24,7 +24,7 @@ For a list of the WCAG success criteria that apply to developing, see: **[How to
 
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="simple aside" %}
+{% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="full" %}
 {:/}
 
 If you're working on authoring tools, such as content management systems, see [Authoring Tool Accessibility Guidelines (ATAG) Overview]({{ "/standards-guidelines/atag/" | relative_url }}).
