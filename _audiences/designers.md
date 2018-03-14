@@ -23,9 +23,9 @@ To understand the standards and supporting materials for content, see **[Web Con
 
 For a list of the WCAG success criteria that apply to certain areas, see:
 
-* interaction design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Interaction Design"](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize)**
-* visual design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Visual Design"](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize)**
-* content creation: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation"](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize)**
+* interaction design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Interaction Design" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=audio%2Cautoplay%2Cbuttons%2Ccaptcha%2Ccarousels%2Cchanging-content%2Ccontrols%2Cerrors%2Cevents%2Cfocus%2Cforms%2Cmodals%2Cnavigation%2Cskip-to-content%2Cstreaming%2Ctab-order%2Ctime-limits%2Cvideo)**
+* visual design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Visual Design" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=animation%2Cblinking%2Ccolor%2Ccontrast%2Cflashing%2Chidden-content%2Cimages%2Cimages-of-text%2Clayout%2Cprogress-steps%2Cstructure%2Ctables%2Ctext%2Ctext-alternatives%2Cvideo%2Czoom)**
+* content creation: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=audio%2Cbuttons%2Ccaptions%2Cconsistent-experience%2Ccontent%2Cheadings%2Chidden-content%2Cimages%2Clinks%2Clive-stream%2Cmessaging%2Cmoving-content%2Cpage-title%2Cprogress-steps%2Cstructure%2Ctext%2Ctext-alternatives%2Cvideo%2Cvisual-cues)**
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="simple aside" %}
