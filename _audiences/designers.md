@@ -28,7 +28,7 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 * content creation: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=audio%2Cbuttons%2Ccaptions%2Cconsistent-experience%2Ccontent%2Cheadings%2Chidden-content%2Cimages%2Clinks%2Clive-stream%2Cmessaging%2Cmoving-content%2Cpage-title%2Cprogress-steps%2Cstructure%2Ctext%2Ctext-alternatives%2Cvideo%2Cvisual-cues)**
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="simple aside" %}
+{% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="full" %}
 {:/}
 
 If you're working on authoring tools, such as content management systems, see [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag).
