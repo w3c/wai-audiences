@@ -9,9 +9,11 @@ footer: >
 
 ---
 
+This page provides a starting point for information that is particularly relevant to visual designers and user interface designers.
+
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
+Even if you know a lot about accessibility, we encourage you to at least skim **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 ## Get Started
 
@@ -38,3 +40,9 @@ If you're working on browsers or other "user agents", see [User Agent Accessibil
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+
+## More
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
+
