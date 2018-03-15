@@ -16,6 +16,6 @@ This page links to resources that web users, people with disabilities, and advoc
 
 * If you want to customize your web browser and computer setup to make it easier to use, see **[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)**.
 
-* If you want to check a web page for some common accessibility issues, see [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}).
+* If you want to check a web page for some common accessibility issues, see **[Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})**.
 
 We encourage you to look around the W3C WAI website to find other information that you are interested in.
