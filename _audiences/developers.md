@@ -8,13 +8,17 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
+This page provides a starting point for information that is particularly relevant to developers.
+
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
+Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 ## Get Started
 
 For brief descriptions of things to address for markup and coding, see **[Tips for Getting Started Developing for Web Accessibility]({{ "/tips/developing/" | relative_url }})**.
+
+For guidance on how to create specific components of websites to meet accessibility standards, see **[Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)**
 
 ## Get Comprehensive Guidance
 
@@ -34,3 +38,7 @@ If you're working on browsers or other "user agents", see [User Agent Accessibil
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+## More
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
