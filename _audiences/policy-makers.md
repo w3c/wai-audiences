@@ -3,24 +3,21 @@ title: "Resources for Policy Makers"
 nav_title: "Policy Makers"
 order: 5
 footer: >
-  <p><strong>Date:</strong> Updated 12 March 2018.</p>
+  <p><strong>Date:</strong> Updated 15 March 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 This page provides a starting point for information that is particularly relevant to policy makers.
 
-## Get a Foundation
+* **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})** &mdash; includes links to more information that you might want to read now or later. Even if you know a lot about accessibility, we encourage you to at least skim this page.
 
-Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
+* **[Why Standards Harmonization is Essential to Web Accessibility]({{ "/standards-guidelines/harmonization/" | relative_url }})** &mdash; explains the importance of using international standards (rather than creating different standards).
 
-## Understand Policy-Related Issues
+* **[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})** &mdash: explains how web accessibility depends on several components of web development and interaction working together. It also shows how the W3C WAI accessibility standards (WCAG, ATAG, UAAG, WAI-ARIA) apply.
 
-* To understand the importance of using international standards (rather than creating different standards), see **[Why Standards Harmonization is Essential to Web Accessibility]({{ "/standards-guidelines/harmonization/" | relative_url }})**.
-* To understand how web accessibility depends on several components of web development and interaction working together, and how the W3C WAI accessibility standards (WCAG, ATAG, UAAG, WAI-ARIA) apply, see **[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})**.
-* For a list of governmental policies relating to web accessibility in countries and regions around the world, see **[Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})**.
-* For guidance on developing a policy for an organization, see **[Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})**.
+* **[Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})** &mdash: is a list of governmental policies relating to web accessibility in countries and regions around the world.
 
-## More
+* **[Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})** &mdash: provides guidance on developing a policy for an organization.
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in.
