@@ -13,7 +13,7 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-Even if you know a lot about accessibility, we encourage you to at least skim **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
+Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 ## Get Started
 
