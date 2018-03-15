@@ -8,9 +8,11 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
+This page provides a starting point for information that is particularly relevant to managers.
+
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
+Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 ## Get Started Now
 
@@ -19,3 +21,7 @@ If you're in the situation: "I need to make my website accessible and I don't ev
 ## Get Guidance for Organizations and Projects
 
 For guidance integrating accessibility throughout your organization and projects, see **[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})**.
+
+## More
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
