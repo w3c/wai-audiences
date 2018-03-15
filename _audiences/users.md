@@ -1,6 +1,6 @@
 ---
-title: "Resources for Web Users"
-nav_title: " Web Users "
+title: "Resources for Web Users, People with Disabilities, and Advocates"
+nav_title: " Web Users, Advocates "
 order: 8
 footer: >
   <p><strong>Date:</strong> Updated 15 March 2018.</p>
