@@ -1,7 +1,7 @@
 ---
 title: "Resources for Trainers/Educators"
 nav_title: " Trainers/Educators "
-order: 8
+order: 7
 footer: >
   <p><strong>Date:</strong> Updated 15 March 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
