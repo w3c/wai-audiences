@@ -8,9 +8,9 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-This page links to resources that web users, people with disabilities, and advocates might be particularly interested in.
+This page provides a starting point for information that is particularly relevant to web users, people with disabilities, and advocates.
 
-* To get an overview of accessibility issues, see **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
+* Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 * For guidance on reporting web accessibility barriers, see **[Contacting Organizations about Inaccessible Websites]({{ "/teach-advocate/contact-inaccessible-websites/" | relative_url }})**.
 
@@ -18,4 +18,4 @@ This page links to resources that web users, people with disabilities, and advoc
 
 * If you want to check a web page for some common accessibility issues, see **[Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})**.
 
-We encourage you to look around the W3C WAI website to find other information that you are interested in.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
