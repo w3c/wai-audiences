@@ -8,7 +8,7 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-This page links to resources that trainers and educators might be particularly interested in.
+This page provides a starting point for information that is particularly relevant to trainers and educators.
 
 ## Understand the Foundation
 
@@ -26,4 +26,4 @@ For guidance on making your training accessible to all of your potential audienc
 
 ## More
 
-We encourage you to look around the W3C WAI website to find other information to help you train and educate on accessibility.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
