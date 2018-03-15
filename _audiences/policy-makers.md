@@ -8,9 +8,11 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
+This page provides a starting point for information that is particularly relevant to policy makers.
+
 ## Get a Foundation
 
-First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and lots more details that you might want to read now or later.
+Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
 
 ## Understand Policy-Related Issues
 
@@ -19,3 +21,6 @@ First, skim through **[Introduction to Web Accessibility]({{ "/fundamentals/acce
 * For a list of governmental policies relating to web accessibility in countries and regions around the world, see **[Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})**.
 * For guidance on developing a policy for an organization, see **[Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})**.
 
+## More
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in.
