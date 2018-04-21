@@ -20,12 +20,15 @@ footer: >
 
 This page provides a starting point for information that is particularly relevant to web users, people with disabilities, and advocates.
 
-* **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})** includes links to videos and to lots more information that you might want to read now or later. We encourage you to read it even if you know a lot about accessibility.
-
-* **[Contacting Organizations about Inaccessible Websites]({{ "/teach-advocate/contact-inaccessible-websites/" | relative_url }})** provides guidance on reporting web accessibility barriers.
-
-* **[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)**  helps you customize your web browser and computer setup to make them easier to use.
-
-* **[Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }})** guides you through checking a web page for some common accessibility barriers.
+<dl>
+  <dt>**[Introduction to Web Accessibility]({{  &quot;/fundamentals/accessibility-intro/&quot; | relative_url }})**</dt>
+  <dd>Includes  links to videos and to lots more information that you might want to read now or  later. We encourage you to read it even if you know a lot about accessibility.</dd>
+  <dt>**[Contacting Organizations about Inaccessible  Websites]({{ &quot;/teach-advocate/contact-inaccessible-websites/&quot; |  relative_url }})**</dt>
+  <dd>Provides guidance on reporting web accessibility barriers.</dd>
+  <dt>**[Better Web Browsing: Tips for Customizing Your  Computer](<a href="https://www.w3.org/WAI/users/browsing)**">https://www.w3.org/WAI/users/browsing)**</a></dt>
+  <dd>Helps you customize your web browser and  computer setup to make them easier to use</dd>
+  <dt>**[Easy Checks - A First Review of Web Accessibility]({{  &quot;/test-evaluate/preliminary/&quot; | relative_url }})**</dt>
+  <dd>Guides you through  checking a web page for some common accessibility barriers.</dd>
+</dl>
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in.
