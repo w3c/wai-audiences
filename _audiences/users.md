@@ -8,16 +8,6 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
----
-title: "Resources for Web Users, People with Disabilities, and Advocates"
-nav_title: " Web Users, Advocates "
-order: 8
-footer: >
-  <p><strong>Date:</strong> Updated 15 March 2018.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
----
-
 This page provides a starting point for information that is particularly relevant to web users, people with disabilities, and advocates.
 
 <dl>
