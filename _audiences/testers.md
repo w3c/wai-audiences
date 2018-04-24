@@ -3,7 +3,7 @@ title: "Resources for Testers/Evaluators"
 nav_title: " Testers/Evaluators "
 order: 6
 footer: >
-  <p><strong>Date:</strong> Updated 15 March 2018.</p>
+  <p><strong>Date:</strong> Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -12,11 +12,13 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
+**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+: Includes links to videos and to lots more information that you might want to read now or later. We encourage you to read it even if you know a lot about accessibility.
 
 ## Get Guidance
 
-For information on testing/evaluating, see **[Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})**. It links to information on evaluation tools, manual checks, and conformance evaluation resources.
+**[Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})**
+: Links to information on evaluation tools, manual checks, and conformance evaluation resources.
 
 ## More
 
