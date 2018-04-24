@@ -16,7 +16,7 @@ This page provides a starting point for information that is particularly relevan
 **[Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})**
 : Provides guidance on reporting web accessibility barriers.
 
-**[Better Web Browsing: Tips for Customizing Your Computer](<a href="https://www.w3.org/WAI/users/browsing)**">https://www.w3.org/WAI/users/browsing)**</a>
+**[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)**
 : Helps you customize your web browser and  computer setup to make them easier to use
 
 **[Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})**
