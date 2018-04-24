@@ -13,15 +13,18 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-Even if you know a lot about accessibility, we encourage you to read **[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**. It includes links to videos and to lots more information that you might want to read now or later.
+**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+: Includes links to videos and to lots more information that you might want to read now or later. We encourage you to read it even if you know a lot about accessibility.
 
 ## Get Started
 
-For brief descriptions of things to address for user interface design and visual design, see **[Tips for Getting Started Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing)**.
+**[Tips for Getting Started Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing)**
+: Brief descriptions of some things to address for user interface design and visual design.
 
 ## Get Comprehensive Guidance
 
-To understand the standards and supporting materials for content, see **[Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)**.
+**[Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)**
+: Helps you understand the standards and supporting materials for content.
 
 For a list of the WCAG success criteria that apply to certain areas, see:
 
@@ -33,9 +36,11 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 {% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="full" %}
 {:/}
 
-If you're working on authoring tools, such as content management systems, see [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag).
+[Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag)
+: For authoring tools, such as content management systems. 
 
-If you're working on browsers or other "user agents", see [User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag).
+[User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag)
+: For browsers or other "user agents".
 
 {::nomarkdown}
 {% include box.html type="end" %}
