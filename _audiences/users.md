@@ -10,16 +10,16 @@ footer: >
 
 This page provides a starting point for information that is particularly relevant to web users, people with disabilities, and advocates.
 
-**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
-**[Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})**
+[Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})
 : Provides guidance on reporting web accessibility barriers.
 
-**[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)**
+[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)
 : Helps you customize your web browser and  computer setup to make them easier to use
 
-**[Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})**
+[Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})
 : Guides you through  checking a web page for some common accessibility barriers.
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in.

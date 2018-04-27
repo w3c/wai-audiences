@@ -13,17 +13,17 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
 ## Get Started
 
-**[Tips for Getting Started Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing)**
+[Tips for Getting Started Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing)
 : Brief descriptions of some things to address for user interface design and visual design.
 
 ## Get Comprehensive Guidance
 
-**[Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)**
+[Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)
 : Helps you understand the standards and supporting materials for content.
 
 For a list of the WCAG success criteria that apply to certain areas, see:
@@ -41,6 +41,7 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 
 [User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag)
 : For browsers or other "user agents".
+{:.notbold}
 
 {::nomarkdown}
 {% include box.html type="end" %}

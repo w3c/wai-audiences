@@ -12,12 +12,12 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
 ## Get Guidance
 
-**[Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})**
+[Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }})
 : Links to information on evaluation tools, manual checks, and conformance evaluation resources.
 
 ## More

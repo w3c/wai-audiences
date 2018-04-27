@@ -12,17 +12,17 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get a Foundation
 
-**[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})**
+[Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
 ## Get Started Now
 
-**[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})**
+[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})
 : For people in the situation: "I need to make my website accessible and I don't even know where to start!".
 
 ## Get Guidance for Organizations and Projects
 
-**[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})**
+[Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }})
 : Guidance integrating accessibility throughout your organization and projects.
 
 ## More
