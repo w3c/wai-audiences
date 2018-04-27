@@ -34,11 +34,13 @@ This page provides a starting point for information that is particularly relevan
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="full" %}
 {:/}
+
 [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag)
 : For authoring tools, such as content management systems. 
 
 [User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag)
 : For browsers or other "user agents".
+{:.notbold}
 
 {::nomarkdown}
 {% include box.html type="end" %}
