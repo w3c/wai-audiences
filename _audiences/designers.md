@@ -1,6 +1,8 @@
 ---
 title: "Resources for Designers"
 nav_title: "Designers"
+github:
+  repository: wai-audiences
 order: 2
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>

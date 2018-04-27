@@ -1,6 +1,8 @@
 ---
 title: "Resources for Trainers/Educators"
 nav_title: " Trainers/Educators "
+github:
+  repository: wai-audiences
 order: 7
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>

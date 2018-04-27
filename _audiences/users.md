@@ -1,6 +1,8 @@
 ---
 title: "Resources for Web Users, People with Disabilities, and Advocates"
-nav_title: " Web Users, Advocates "
+nav_title: "Web Users, Advocates"
+github:
+  repository: wai-audiences
 order: 8
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>

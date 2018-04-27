@@ -1,6 +1,8 @@
 ---
 title: "Resources for Testers/Evaluators"
 nav_title: " Testers/Evaluators "
+github:
+  repository: wai-audiences
 order: 6
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
