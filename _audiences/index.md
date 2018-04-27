@@ -2,13 +2,13 @@
 title: "Get resources for…"
 nav_title: "Overview"
 order: 1
-permalink: /audiences/
+permalink: /roles/
 ---
 
-* [Designers]({{ "/audiences/designers/" | relative_url }})
-* [Developers]({{ "/audiences/developers/" | relative_url }})
-* [Managers]({{ "/audiences/managers/" | relative_url }})
-* [Policy Makers]({{ "/audiences/policy-makers/" | relative_url }})
-* [Testers/Evaluators]({{ "/audiences/testers/" | relative_url }})
-* [Trainers/Educators]({{ "/audiences/trainers/" | relative_url }})
-* [Web Users, Advocates]({{ "/audiences/users/" | relative_url }})
+* [Designers]({{ "/roles/designers/" | relative_url }})
+* [Developers]({{ "/roles/developers/" | relative_url }})
+* [Managers]({{ "/roles/managers/" | relative_url }})
+* [Policy Makers]({{ "/roles/policy-makers/" | relative_url }})
+* [Testers/Evaluators]({{ "/roles/testers/" | relative_url }})
+* [Trainers/Educators]({{ "/roles/trainers/" | relative_url }})
+* [Web Users, Advocates]({{ "/roles/users/" | relative_url }})

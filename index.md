@@ -1,3 +1,3 @@
 ---
-redirect_to: /audiences/
+redirect_to: /roles/
 ---

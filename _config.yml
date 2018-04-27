@@ -38,13 +38,13 @@ remote_theme: w3c/wai-website-theme
 collections:
   audiences:
     area: "Plan & Manage"
-    name: "Audiences"
-    shortname: "Audiences"
+    name: "Roles"
+    shortname: "Roles"
     repostitory: w3c/wai-audiences
     output: true
     acknowledgements: false
     prevnext: false
-    permalink: /:collection/:path/
+    permalink: /roles/:path/
 
 defaults:
   -

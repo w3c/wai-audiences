@@ -1,3 +1,3 @@
 # wai-audiences
 
-Preview link: https://w3c.github.io/wai-audiences/audiences/
+Preview link: https://w3c.github.io/wai-audiences/roles/
