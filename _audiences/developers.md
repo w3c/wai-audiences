@@ -2,7 +2,7 @@
 title: "Resources for Developers"
 nav_title: "Developers"
 github:
-  repository: wai-audiences
+  repository: w3c/wai-audiences
 order: 3
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>

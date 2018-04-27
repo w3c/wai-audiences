@@ -2,7 +2,7 @@
 title: "Get resources for…"
 nav_title: "Overview"
 github:
-  repository: wai-audiences
+  repository: w3c/wai-audiences
 order: 1
 permalink: /roles/
 ---

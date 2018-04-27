@@ -2,7 +2,7 @@
 title: "Resources for Managers"
 nav_title: "Managers"
 github:
-  repository: wai-audiences
+  repository: w3c/wai-audiences
 order: 4
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>

@@ -2,7 +2,7 @@
 title: "Resources for Policy Makers"
 nav_title: "Policy Makers"
 github:
-  repository: wai-audiences
+  repository: w3c/wai-audiences
 order: 5
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
