@@ -52,5 +52,5 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 
 ## More
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
 
