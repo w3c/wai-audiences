@@ -29,9 +29,9 @@ This page provides a starting point for information that is particularly relevan
 : Helps you understand the standards and supporting materials for content.
 
 [How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=autoplay%2Ccaptcha%2Ccaptions%2Ccarousels%2Cchanging-content%2Cconsistent-experience%2Ccontent%2Ccontrols%2Cerrors%2Cevents%2Cfocus%2Cforms%2Cheadings%2Cimages%2Clinks%2Cmessaging%2Cmodals%2Cnavigation%2Cpage-title%2Cprogress-steps%2Cskip-to-content%2Cstreaming%2Cstructure%2Ctab-order%2Ctext%2Ctext-alternatives%2Ctime-limits)
-: A list of the WCAG success criteria that apply to developing.
+: A list of WCAG success criteria related to content writing.
 
 ## More
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
 
