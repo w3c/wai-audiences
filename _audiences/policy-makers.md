@@ -27,4 +27,4 @@ This page provides a starting point for information that is particularly relevan
 [Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})
 : Guidance on developing a policy for an organization.
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
