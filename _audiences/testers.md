@@ -1,6 +1,6 @@
 ---
-title: "Resources for Testers/Evaluators"
-nav_title: " Testers/Evaluators "
+title: "Resources for Evaluators and Testers"
+nav_title: " Evaluators, Testers "
 github:
   repository: w3c/wai-audiences
 order: 6
