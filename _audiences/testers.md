@@ -24,4 +24,4 @@ This page provides a starting point for information that is particularly relevan
 
 ## More
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in.
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
