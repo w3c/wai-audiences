@@ -3,7 +3,7 @@ title: "Resources for Evaluators and Testers"
 nav_title: " Evaluators, Testers "
 github:
   repository: w3c/wai-audiences
-order: 6
+order: 4
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
