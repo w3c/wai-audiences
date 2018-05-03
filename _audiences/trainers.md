@@ -1,6 +1,6 @@
 ---
-title: "Resources for Trainers/Educators"
-nav_title: " Trainers/Educators "
+title: "Resources for Trainers and Educators"
+nav_title: " Trainers, Educators "
 github:
   repository: w3c/wai-audiences
 order: 7
