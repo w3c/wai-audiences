@@ -41,7 +41,7 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 [Authoring Tool Accessibility Guidelines (ATAG) Overview](https://www.w3.org/WAI/intro/atag)
 : For authoring tools, such as content management systems. 
 
-[User Agent Accessibility (UAAG) Guidelines Overview](https://www.w3.org/WAI/intro/uaag)
+[User Agent Accessibility Guidelines (UAAG) Overview](https://www.w3.org/WAI/intro/uaag)
 : For browsers or other "user agents".
 {:.notbold}
 
