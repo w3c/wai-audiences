@@ -24,7 +24,7 @@ This page provides a starting point for information that is particularly relevan
 [Web Accessibility Laws and Policies]({{ "/policies/" | relative_url }})
 : List of governmental policies relating to web accessibility in countries and regions around the world.
 
-[Developing Organizational Policies on Web Accessibility]({{ "/plan/org-policies/" | relative_url }})
+[Developing Organizational Policies on Web Accessibility]({{ "/planning/org-policies/" | relative_url }})
 : Guidance on developing a policy for an organization.
 {:.paragraph-like}
 

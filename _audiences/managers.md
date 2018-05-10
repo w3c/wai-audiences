@@ -19,7 +19,7 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get Started Now
 
-[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }})
+[Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }})
 : For people in the situation: "I need to make my website accessible and I don't even know where to start!".
 
 ## Get Guidance for Organizations and Projects
