@@ -20,7 +20,7 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get Started
 
-[Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing)
+[Tips for Getting Started Writing for Web Accessibility]({{ "/tips/writing/" | relative_url }})
 : Brief descriptions of some things to address for content writing.
 
 ## Get Comprehensive Guidance
