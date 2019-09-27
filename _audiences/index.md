@@ -5,13 +5,15 @@ github:
   repository: w3c/wai-audiences
 order: 0
 permalink: /roles/
+ref: /roles/
+lang: en
 ---
 
-* [Content Writers]({{ "/roles/writers/" | relative_url }})
-* [Designers]({{ "/roles/designers/" | relative_url }})
-* [Developers]({{ "/roles/developers/" | relative_url }})
-* [Evaluators, Testers]({{ "/roles/testers/" | relative_url }})
-* [Managers]({{ "/roles/managers/" | relative_url }})
-* [Policy Makers]({{ "/roles/policy-makers/" | relative_url }})
-* [Trainers, Educators]({{ "/roles/trainers/" | relative_url }})
-* [Web Users, People with Disabilities, Advocates]({{ "/roles/users/" | relative_url }})
+* [Content Writers](/roles/writers/)
+* [Designers](/roles/designers/)
+* [Developers](/roles/developers/)
+* [Evaluators, Testers](/roles/testers/)
+* [Managers](/roles/managers/)
+* [Policy Makers](/roles/policy-makers/)
+* [Trainers, Educators](/roles/trainers/)
+* [Web Users, People with Disabilities, Advocates](/roles/users/)
