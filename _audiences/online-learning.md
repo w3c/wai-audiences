@@ -9,7 +9,7 @@ permalink: /roles/online-learning/
 ref: /roles/online-learning/
 lang: en
 footer: >
-  <p><strong>Status: Editors' Draft.</strong></p>
+  <p><strong>Date: </strong>in-progress draft</p>
   <p><strong>Editors:</strong> @@.</p>
   <p>@@Developed by the <a href="https://www.w3.org/community/accesslearn/">Accessible Online Learning Community Group</a> and Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
