@@ -18,7 +18,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-@@
+@@ summary text
 
 {::nomarkdown}
 {% include box.html type="end" %}
