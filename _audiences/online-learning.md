@@ -18,7 +18,8 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-@@ summary text
+This page provides an introduction to web accessibility for audiences working with online learning resources. It provides
+links to other WAI pages that have content relevant to accessibility and online learning.
 
 {::nomarkdown}
 {% include box.html type="end" %}
