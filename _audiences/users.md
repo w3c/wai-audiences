@@ -19,9 +19,9 @@ This page provides a starting point for information that is particularly relevan
 
 Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility encompasses all disabilities that affect access to the Web, including auditory, cognitive, physical, speech, and visual.
 
-Web developers and designers can create web sites and web applications that are accessible, or that are inaccessible and have barriers that exclude people from using the Web.
+Web developers and designers can create web sites and web applications that are accessible, or that are inaccessible.
 
-The Web Accessibility Initiative (WAI) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. These are considered international standards for web accessibility; for example, Web Content Accessibility Guidelines (WCAG) 2.0 is also an International Organization for Standardization (ISO) standard: ISO/IEC 40500.
+The Web Accessibility Initiative (WAI) develops technical specifications, guidelines, techniques, and supporting resources that describe accessibility solutions. They are considered international standards for web accessibility; for example, Web Content Accessibility Guidelines (WCAG) 2.0 is also an International Organization for Standardization (ISO) standard: ISO/IEC 40500.
 
 ## Resources
 
