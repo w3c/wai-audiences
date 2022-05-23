@@ -3,7 +3,7 @@ title: "Resources for Designers"
 nav_title: "Designers"
 github:
   repository: w3c/wai-audiences
-order: 2
+order: 3
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: James Green.</p>
