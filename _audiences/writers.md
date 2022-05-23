@@ -3,7 +3,7 @@ title: "Resources for Content Writers"
 nav_title: "Content Writers"
 github:
   repository: w3c/wai-audiences
-order: 1
+order: 2
 footer: >
   <p><strong>Date:</strong> Updated 3 May 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
