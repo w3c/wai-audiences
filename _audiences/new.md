@@ -12,7 +12,7 @@ lang: en
 To get started learning about digital accessibility, **read the [Introduction to Web Accessibility](/fundamentals/accessibility-intro/)**.
 
 That page introduces:
-* accessibility in context
+* Accessibility in context
 * What is web accessibility
 * Accessibility is important for individuals, businesses, society
 * Making the web accessible
@@ -23,6 +23,6 @@ The [Introduction to Web Accessibility](/fundamentals/accessibility-intro/) also
 * Understanding how people with disabilities use the web
 * The business case for digital accessibility
 * W3C accessibility standards overview
-* Tips for getting started
+* Tips for getting started on web accessibility
 * [Video Introduction to Web Accessibility and W3C Standards](/fundamentals/accessibility-intro/) &ndash; a 4-minute video with descriptive transcript and subtitles in over 20 languages
 * [Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/) &ndash; provides the foundation you need to make your digital technology accessible
