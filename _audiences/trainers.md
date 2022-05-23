@@ -3,7 +3,7 @@ title: "Resources for Trainers and Educators"
 nav_title: " Trainers, Educators "
 github:
   repository: w3c/wai-audiences
-order: 7
+order: 8
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
