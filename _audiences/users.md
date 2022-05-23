@@ -3,7 +3,7 @@ title: "Resources for Web Users, People with Disabilities, and Advocates"
 nav_title: "Web Users, People with Disabilities, Advocates"
 github:
   repository: w3c/wai-audiences
-order: 8
+order: 9
 footer: >
   <p><strong>Date:</strong> Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
