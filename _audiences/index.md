@@ -9,6 +9,7 @@ ref: /roles/
 lang: en
 ---
 
+* [Getting Started](/roles/new/)
 * [Content Writers](/roles/writers/)
 * [Designers](/roles/designers/)
 * [Developers](/roles/developers/)
