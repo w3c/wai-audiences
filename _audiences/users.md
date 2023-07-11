@@ -18,11 +18,15 @@ This page provides a starting point for information that is particularly relevan
 [Introduction to Web Accessibility](/fundamentals/accessibility-intro/)
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
-[Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})
+[Contacting Organizations about Inaccessible Websites](/teach-advocate/contact-inaccessible-websites/)
 : Provides guidance on reporting web accessibility barriers.
 
-[Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})
+[Easy Checks - A First Review of Web Accessibility](/test-evaluate/preliminary/)
 : Guides you through  checking a web page for some common accessibility barriers.
+
+**[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
+: Iintroduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+
 {:.paragraph-like}
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
