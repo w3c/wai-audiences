@@ -62,6 +62,10 @@ This page provides a starting point for information that is particularly relevan
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
 * [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
 
+## Take a Free Course
+
+The **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)** page introduces a self-paced course from W3C WAI for developers and others. It is designed for technical and non-technical learners, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+
 ## More
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
