@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 4
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/developers/
@@ -34,8 +34,8 @@ This page provides a starting point for information that is particularly relevan
 [Web Content Accessibility Guidelines (WCAG) Overview](/standards-guidelines/wcag/)
 : Helps you understand the standards and supporting materials for content.
 
-[How to Meet WCAG 2 (Quick Reference) – filtered for "Developing" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=captcha%2Ccontrols%2Cerrors%2Cevents%2Cfocus%2Cforms%2Cheadings%2Ciframes%2Cimages%2Ckeyboard%2Clabels%2Clanguage%2Clinks%2Cmarkup%2Cmenus%2Cpage-title%2Cstructure%2Ctables%2Ctext%2Ctext-alternatives%2Cvideo)
-: A list of the WCAG success criteria that apply to developing.
+[How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1&currentsidebar=%23col_customize)
+: A list of the WCAG success criteria with links to Techniques and Understanding documents. In the Filters, you can choose to see only Tags related to developing content.
 {:.paragraph-like}
 
 {::nomarkdown}
@@ -53,6 +53,14 @@ This page provides a starting point for information that is particularly relevan
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+## Get Specific Guidance
+
+* [ARIA Authoring Practices Guide (APG)] (https://www.w3.org/WAI/ARIA/apg/)
+* [[Mobile Accessibility at W3C]](https://www.w3.org/WAI/standards-guidelines/mobile/)
+* [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
+* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
+* [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
 
 ## More
 
