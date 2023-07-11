@@ -38,6 +38,11 @@ This page provides a starting point for information that is particularly relevan
 : Helps you understand and create captions/subtitles, audio description of visual information, descriptive transcripts, and sign language for media. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
 {:.paragraph-like}
 
+## Get Ideas from an Example Course
+
+**[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+
 ## More
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
