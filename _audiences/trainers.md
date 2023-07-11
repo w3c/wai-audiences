@@ -26,7 +26,7 @@ This page provides a starting point for information that is particularly relevan
 : Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
 
 [Developing Web Accessibility Presentations and Training](/teach-advocate/accessibility-training/)
-: An older page that still has some useful outlines, slides, demos, and videos that you can use to help your students understand more about web accessibility.
+: An older resource that still has some useful outlines, slides, demos, and videos that you can use to help your students understand more about web accessibility.
 {:.paragraph-like}
 
 ## Make it Accessible
