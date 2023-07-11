@@ -44,6 +44,10 @@ This page provides a starting point for information that is particularly relevan
 * [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
 
+## Take a Free Course
+
+The **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)** page introduces a self-paced course from W3C WAI for writers and others. It is designed **for non-technical and technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+
 ## More
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
