@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 9
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/users/
@@ -20,9 +20,6 @@ This page provides a starting point for information that is particularly relevan
 
 [Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})
 : Provides guidance on reporting web accessibility barriers.
-
-[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)
-: Helps you customize your web browser and  computer setup to make them easier to use
 
 [Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})
 : Guides you through  checking a web page for some common accessibility barriers.
