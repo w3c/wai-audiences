@@ -40,8 +40,8 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get Specific Guidance
 
-* [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
-* [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
+* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
+* [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/)
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
 
 ## Take a Free Course
