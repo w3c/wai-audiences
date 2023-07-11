@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 7
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Reviewed 10 July 2023. Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/policy-makers/

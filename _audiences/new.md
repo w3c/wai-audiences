@@ -19,10 +19,11 @@ That page introduces:
 * Evaluating accessibility
 * Examples
 
-The [Introduction to Web Accessibility](/fundamentals/accessibility-intro/) also provides pointers to additional information on a range of topics including:
+It also provides pointers to additional information on a range of topics including:
 * Understanding how people with disabilities use the web
 * The business case for digital accessibility
 * W3C accessibility standards overview
 * Tips for getting started on web accessibility
-* [Video Introduction to Web Accessibility and W3C Standards](/fundamentals/accessibility-intro/) &ndash; a 4-minute video with descriptive transcript and subtitles in over 20 languages
-* [Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/) &ndash; provides the foundation you need to make your digital technology accessible
+* [Video Introduction to Web Accessibility and W3C Standards](/fundamentals/accessibility-intro/), a 4-minute video with descriptive transcript and subtitles in over 20 languages
+
+The **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)** page introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.

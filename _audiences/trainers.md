@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 8
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/trainers/
@@ -22,13 +22,26 @@ This page provides a starting point for information that is particularly relevan
 
 ## Teach Accessibility
 
+[Curricula on Web Accessibility: A Framework to Build Your Own Courses](https://www.w3.org/WAI/curricula/)
+: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+
 [Developing Web Accessibility Presentations and Training](/teach-advocate/accessibility-training/)
-: Provides outlines, slides, demos, and videos that you can use to help your students understand more about web accessibility.
+: An older page that still has some useful outlines, slides, demos, and videos that you can use to help your students understand more about web accessibility.
+{:.paragraph-like}
 
 ## Make it Accessible
 
-[How to Make Your Presentations Accessible to All](/teach-advocate/accessible-presentations/)
-: Guidance on making your training accessible to all of your potential audience.
+[Making Events Accessible](/teach-advocate/accessible-presentations/)
+: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid.
+
+[Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
+: Helps you understand and create captions/subtitles, audio description of visual information, descriptive transcripts, and sign language for media. Includes guidance for creating new videos, and on media player accessibility. Introduces user experiences and benefits to organizations.
+{:.paragraph-like}
+
+## Get Ideas from an Example Course
+
+**[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 
 ## More
 

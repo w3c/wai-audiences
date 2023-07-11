@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 5
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Reviewed 10 July 2023. Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/testers/
@@ -23,7 +23,12 @@ This page provides a starting point for information that is particularly relevan
 ## Get Guidance
 
 [Evaluating Web Accessibility Overview](/test-evaluate/)
-: Links to information on evaluation tools, manual checks, and conformance evaluation resources.
+: Links to information on evaluation tools, manual checks, and conformance evaluation resources. Includes video introductions.
+
+## Take a Free Course
+
+[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 
 ## More
 

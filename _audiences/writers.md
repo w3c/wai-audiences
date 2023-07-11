@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 2
 footer: >
-  <p><strong>Date:</strong> Updated 5 August 2022.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/writers/
@@ -34,14 +34,20 @@ This page provides a starting point for information that is particularly relevan
 [Web Content Accessibility Guidelines (WCAG) Overview](/standards-guidelines/wcag/)
 : Helps you understand the standards and supporting materials for content.
 
-[How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation" Tags](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize&tags=autoplay%2Ccaptcha%2Ccaptions%2Ccarousels%2Cchanging-content%2Cconsistent-experience%2Ccontent%2Ccontrols%2Cerrors%2Cevents%2Cfocus%2Cforms%2Cheadings%2Cimages%2Clinks%2Cmessaging%2Cmodals%2Cnavigation%2Cpage-title%2Cprogress-steps%2Cskip-to-content%2Cstreaming%2Cstructure%2Ctab-order%2Ctext%2Ctext-alternatives%2Ctime-limits)
-: A list of WCAG success criteria related to content writing.
-
-[Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
-: Guidance on writing captions, description of visual information, and more.
+[How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1&currentsidebar=%23col_customize)
+: A list of the WCAG success criteria with links to Techniques and Understanding documents. In the Filters, you can choose to see only Tags related to content creation.
 {:.paragraph-like}
+
+## Get Specific Guidance
+
+* [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
+* [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
+* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
+
+## Take a Free Course
+
+The **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)** page introduces a self-paced course from W3C WAI for writers and others. It is designed **for non-technical and technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 
 ## More
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
-

@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 3
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: James Green.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/designers/
@@ -30,11 +30,8 @@ This page provides a starting point for information that is particularly relevan
 [Web Content Accessibility Guidelines (WCAG) Overview]( http://www.w3.org/WAI/intro/wcag.php)
 : Helps you understand the standards and supporting materials for content.
 
-For a list of the WCAG success criteria that apply to certain areas, see:
-
-* interaction design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Interaction Design" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=audio%2Cautoplay%2Cbuttons%2Ccaptcha%2Ccarousels%2Cchanging-content%2Ccontrols%2Cerrors%2Cevents%2Cfocus%2Cforms%2Cmodals%2Cnavigation%2Cskip-to-content%2Cstreaming%2Ctab-order%2Ctime-limits%2Cvideo)**
-* visual design: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Visual Design" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=animation%2Cblinking%2Ccolor%2Ccontrast%2Cflashing%2Chidden-content%2Cimages%2Cimages-of-text%2Clayout%2Cprogress-steps%2Cstructure%2Ctables%2Ctext%2Ctext-alternatives%2Cvideo%2Czoom)**
-* content creation: **[How to Meet WCAG 2 (Quick Reference) – filtered for "Content Creation" Tags](https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&tags=audio%2Cbuttons%2Ccaptions%2Cconsistent-experience%2Ccontent%2Cheadings%2Chidden-content%2Cimages%2Clinks%2Clive-stream%2Cmessaging%2Cmoving-content%2Cpage-title%2Cprogress-steps%2Cstructure%2Ctext%2Ctext-alternatives%2Cvideo%2Cvisual-cues)**
+[How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1&currentsidebar=%23col_customize)
+: A list of the WCAG success criteria with links to Techniques and Understanding documents. In the Filters, you can choose to see only Tags related to interaction design, visual design, and content creation.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="Authoring Tools and User Agents" class="full" %}
@@ -51,6 +48,16 @@ For a list of the WCAG success criteria that apply to certain areas, see:
 {% include box.html type="end" %}
 {:/}
 
+## Get Specific Guidance
+
+* [[Mobile Accessibility at W3C]](https://www.w3.org/WAI/standards-guidelines/mobile/)
+* [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
+* [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
+* [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
+
+## Take a Free Course
+
+The **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)** page introduces a self-paced course from W3C WAI for designers and others. It is designed **for non-technical and technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 
 ## More
 

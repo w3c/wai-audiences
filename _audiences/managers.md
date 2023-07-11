@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 6
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Reviewed 10 July 2023. Updated 24 April 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/managers/
@@ -29,6 +29,11 @@ This page provides a starting point for information that is particularly relevan
 
 [Planning and Managing Web Accessibility](/planning-and-managing/)
 : Guidance integrating accessibility throughout your organization and projects.
+
+## Take a Free Course
+
+**[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 
 ## More
 

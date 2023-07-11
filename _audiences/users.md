@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-audiences
 order: 9
 footer: >
-  <p><strong>Date:</strong> Updated 24 April 2018.</p>
+  <p><strong>Date:</strong> Updated 10 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 permalink: /roles/users/
@@ -18,14 +18,14 @@ This page provides a starting point for information that is particularly relevan
 [Introduction to Web Accessibility](/fundamentals/accessibility-intro/)
 : Includes links to videos and to lots more information that you might want to read now or later.<br/>We encourage you to read this page even if you know a lot about accessibility.
 
-[Contacting Organizations about Inaccessible  Websites]({{ "/teach-advocate/contact-inaccessible-websites/" |  relative_url }})
+[Contacting Organizations about Inaccessible Websites](/teach-advocate/contact-inaccessible-websites/)
 : Provides guidance on reporting web accessibility barriers.
 
-[Better Web Browsing: Tips for Customizing Your Computer](https://www.w3.org/WAI/users/browsing)
-: Helps you customize your web browser and  computer setup to make them easier to use
-
-[Easy Checks - A First Review of Web Accessibility]({{  "/test-evaluate/preliminary/" | relative_url }})
+[Easy Checks - A First Review of Web Accessibility](/test-evaluate/preliminary/)
 : Guides you through  checking a web page for some common accessibility barriers.
+
+**[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 {:.paragraph-like}
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
