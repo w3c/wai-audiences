@@ -25,6 +25,11 @@ This page provides a starting point for information that is particularly relevan
 [Evaluating Web Accessibility Overview](/test-evaluate/)
 : Links to information on evaluation tools, manual checks, and conformance evaluation resources. Includes video introductions.
 
+## Take a Free Course
+
+[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+
 ## More
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
