@@ -50,10 +50,10 @@ This page provides a starting point for information that is particularly relevan
 
 ## Get Specific Guidance
 
-* [[Mobile Accessibility at W3C]](https://www.w3.org/WAI/standards-guidelines/mobile/)
-* [[Cognitive Accessibility at W3C]](https://www.w3.org/WAI/cognitive/)
+* [Mobile Accessibility at W3C(https://www.w3.org/WAI/standards-guidelines/mobile/)
+* [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/)
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
-* [[Making Audio and Video Media Accessible]](https://www.w3.org/WAI/media/av/)
+* [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
 
 ## Take a Free Course
 
