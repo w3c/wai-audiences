@@ -25,8 +25,7 @@ This page provides a starting point for information that is particularly relevan
 : Guides you through  checking a web page for some common accessibility barriers.
 
 **[Digital Accessibility Foundations - Free Online Course](/fundamentals/foundations-course/)**
-: Iintroduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
-
+: Introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
 {:.paragraph-like}
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
