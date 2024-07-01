@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0f7b949c-b2ae-4d69-845b-497a45c57b3f/deploy-status)](https://app.netlify.com/sites/wai-audiences/deploys)
+> [!IMPORTANT]
+> This repository has been archived 1 July 2024.
+>
+> [Get resources for...](https://www.w3.org/WAI/roles/) pages are now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
